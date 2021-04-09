@@ -138,10 +138,12 @@
 		.today{
 			background-color: skyblue;
 			color: #fff;
+			border-radius: 50%;
 		}
 		.select-cell{
 			background-color: red;
 			color: #fff;
+			border-radius: 50%;
 		}
 	}
 </style>
