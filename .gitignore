@@ -14,4 +14,4 @@ package.json
 *.ntvs*
 *.njsproj
 *.sln
-
+.hbuilderx/
