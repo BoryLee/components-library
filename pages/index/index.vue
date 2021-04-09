@@ -1,6 +1,6 @@
 <template>
 	<view class="content">
-		<xhy-calendar />
+			<xhy-calendar />
 	</view>
 </template>
 
@@ -19,5 +19,4 @@
 </script>
 
 <style>
-
 </style>
